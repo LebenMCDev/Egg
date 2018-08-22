@@ -1,18 +1,5 @@
-name: WorldGuard
-main: WorldGuard\WorldGuard
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
-version: 1.2.5
-author: [Muqsit, edited by VMPE Development Team]
-website: Not showing due to self leak information.
-description: WorldGuard, ported from Bukkit to PocketMine (MCPE.)
-commands:
-  region:
-    aliases: ["rg"]
-    default: op
-permissions:
-  worldguard.create:
-    default: op
-  worldguard.modify:
-    default: op
-  worldguard.delete:
-    default: op
+name: UHC
+version: 2.0
+author: JavaPluginFX
+main: uhc\UHC
+api: 3.0.0
